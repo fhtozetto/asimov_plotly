@@ -1,5 +1,10 @@
 {
     "cSpell.ignoreWords": [
         "hovertemplate"
+    ],
+    "cSpell.words": [
+        "hoverinfo",
+        "textfont",
+        "textinfo"
     ]
 }
